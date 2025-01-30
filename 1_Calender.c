@@ -5,7 +5,7 @@ int main()
     int year, month, daysInMonth, startingDay, dayOfWeek;
 
     // Input year and month
-    
+
     printf("Enter year: ");
     scanf("%d", &year);
     printf("Enter month (1-12): ");
