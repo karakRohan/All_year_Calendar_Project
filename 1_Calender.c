@@ -15,7 +15,6 @@ int main()
     if (month == 2)
     {
         // Check for leap year
-        
         if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
             daysInMonth = 29;
         else
